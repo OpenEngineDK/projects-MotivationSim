@@ -1,34 +1,34 @@
 # Motivation Simulation Distribution
 
 # Main OpenEngine repository
-darcs / http://openengine.dk/code/openengine
-darcs-dev / fh.daimi.au.dk:/users/cgd/code/openengine
+git / https://github.com/OpenEngineDK/openengine.git
+git-dev / git@github.com:OpenEngineDK/openengine.git
 
 # Required extensions
-darcs /extensions/SDL             http://openengine.dk/code/extensions/SDL
-darcs /extensions/TGAResource     http://openengine.dk/code/extensions/TGAResource
-darcs /extensions/OBJResource     http://openengine.dk/code/extensions/OBJResource
-darcs /extensions/OpenGLRenderer  http://openengine.dk/code/extensions/OpenGLRenderer
-darcs /extensions/GenericHandlers http://openengine.dk/code/extensions/GenericHandlers
-darcs /extensions/SetupHelpers    http://openengine.dk/code/extensions/SetupHelpers
+git /extensions/SDL             https://github.com/OpenEngineDK/extensions-SDL.git
+git /extensions/TGAResource     https://github.com/OpenEngineDK/extensions-TGAResource.git
+git /extensions/OBJResource     https://github.com/OpenEngineDK/extensions-OBJResource.git
+git /extensions/OpenGLRenderer  https://github.com/OpenEngineDK/extensions-OpenGLRenderer.git
+git /extensions/GenericHandlers https://github.com/OpenEngineDK/extensions-GenericHandlers.git
+git /extensions/SetupHelpers    https://github.com/OpenEngineDK/extensions-SetupHelpers.git
 
-darcs /extensions/BehaviorTree    http://openengine.dk/code/extensions/BehaviorTree
-darcs /extensions/GenerelBehavior http://openengine.dk/code/extensions/GenerelBehavior
+git /extensions/BehaviorTree    https://github.com/OpenEngineDK/extensions-BehaviorTree.git
+git /extensions/GenerelBehavior https://github.com/OpenEngineDK/extensions-GenerelBehavior.git
 
-darcs-dev /extensions/SDL                    fh.daimi.au.dk:/users/cgd/code/extensions/SDL
-darcs-dev /extensions/TGAResource            fh.daimi.au.dk:/users/cgd/code/extensions/TGAResource
-darcs-dev /extensions/OBJResource            fh.daimi.au.dk:/users/cgd/code/extensions/OBJResource
-darcs-dev /extensions/OpenGLRenderer         fh.daimi.au.dk:/users/cgd/code/extensions/OpenGLRenderer
-darcs-dev /extensions/GenericHandlers        fh.daimi.au.dk:/users/cgd/code/extensions/GenericHandlers
-darcs-dev /extensions/SetupHelpers           fh.daimi.au.dk:/users/cgd/code/extensions/SetupHelpers
+git-dev /extensions/SDL                    git@github.com:OpenEngineDK/extensions-SDL.git
+git-dev /extensions/TGAResource            git@github.com:OpenEngineDK/extensions-TGAResource.git
+git-dev /extensions/OBJResource            git@github.com:OpenEngineDK/extensions-OBJResource.git
+git-dev /extensions/OpenGLRenderer         git@github.com:OpenEngineDK/extensions-OpenGLRenderer.git
+git-dev /extensions/GenericHandlers        git@github.com:OpenEngineDK/extensions-GenericHandlers.git
+git-dev /extensions/SetupHelpers           git@github.com:OpenEngineDK/extensions-SetupHelpers.git
 
-darcs-dev /extensions/BehaviorTree           fh.daimi.au.dk:/users/cgd/code/extensions/BehaviorTree
-darcs-dev /extensions/GenerelBehavior        fh.daimi.au.dk:/users/cgd/code/extensions/GenerelBehavior
+git-dev /extensions/BehaviorTree           git@github.com:OpenEngineDK/extensions-BehaviorTree.git
+git-dev /extensions/GenerelBehavior        git@github.com:OpenEngineDK/extensions-GenerelBehavior.git
 
 
 # Some working project
-darcs /projects/MotivationSim http://openengine.dk/code/projects/MotivationSim
-darcs-dev /projects/MotivationSim fh.daimi.au.dk:/users/cgd/code/projects/MotivationSim
+git /projects/MotivationSim https://github.com/OpenEngineDK/projects-MotivationSim.git
+git-dev /projects/MotivationSim git@github.com:OpenEngineDK/projects-MotivationSim.git
 
 # Libraries for various system
 win32  /libraries http://openengine.dk/data/libraries/sdl-win32.zip
